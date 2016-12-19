@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project (text_project)
+add_executable(create_window create_window.c)
+find_package(X11 REQUIRED)
+target_link_libraries(create_window ${X11_LIBRARIES})
