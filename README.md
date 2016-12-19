@@ -6,3 +6,4 @@ study about cmake
 # Todo
 
 - [ ] [CMake チュートリアル — Cmake-Tutorial](http://opencv.jp/cmake/cmake_tutorial.html)
+- [ ] [CMake Tutorial | CMake](https://cmake.org/cmake-tutorial/)
